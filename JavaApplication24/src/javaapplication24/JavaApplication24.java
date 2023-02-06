@@ -16,6 +16,8 @@ public class JavaApplication24 {
     public static void main(String[] args) {
         System.out.println("Hello !");
         System.out.println("Khanh Dep Trai");
+        int a = 10 , b = 5;
+        System.out.println("Ket qua la " + (a + b));
     }
     
 }
