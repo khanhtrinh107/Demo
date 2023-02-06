@@ -17,7 +17,7 @@ public class JavaApplication24 {
         System.out.println("Hello !");
         System.out.println("Khanh Dep Trai");
         int a = 10 , b = 5;
-        System.out.println(a + b);
+        System.out.println("Ket qua la " + (a + b));
     }
     
 }
